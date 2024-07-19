@@ -1,0 +1,21 @@
+.my-class { color: rgba(97, 5, 136, 1);}
+#frase {font-size: 26px;}
+#frase { text-align: justify ;}
+#titulo {text-align: center;}
+
+body{background-color: rgba(202, 173, 230, 1);
+padding: 10px 100px 20px 10px;}
+
+body>h1{font-size: 64px;}
+
+.card {border: rgba(97, 5, 136, 1) solid;
+    background-color:rgba(97, 5, 136, 1)}
+
+#baixo {color: rgba(255, 255, 255, 1);}
+#sob {font-size: 20px;}
+
+body>h2{font-size: 28px; text-align: center;}
+
+#ult {color: rgba(255, 255, 255, 1);
+font-size: 16px}
+#ult {text-align: center;}
